@@ -1,5 +1,5 @@
 import time, sys
-import requests, json
+import requests
 
 # Ensure jokes are printed sequentially.
 i = 0
